@@ -1,6 +1,8 @@
 ![Logo](logo.png)
 
 # OcelotPack
+Forget about "doubling" your FPS. We can do better.
+
 This is a Minecraft modpack on Fabric, focusing on optimisation, customisation and stability. The goal is not to have any opinionated stuff here. This could just as well be vanilla.
 Inspired by Fabulously Optimized and the OptiFine alternatives by LambdAurora.
 
